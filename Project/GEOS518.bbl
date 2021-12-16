@@ -1,0 +1,46 @@
+\begin{thebibliography}{6}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Oguejiofor and Abiodun(2019)]{oguejiofor2019simulating}
+Chibueze~N Oguejiofor and Babatunde~J Abiodun.
+\newblock Simulating the influence of sea-surface-temperature (sst) on tropical
+  cyclones over south-west indian ocean, using the uems-wrf regional climate
+  model.
+\newblock \emph{arXiv preprint arXiv:1906.08298}, 2019.
+
+\bibitem[Fitchett and Grab(2014)]{fitchett201466}
+Jennifer~M Fitchett and Stefan~W Grab.
+\newblock A 66-year tropical cyclone record for south-east africa: temporal
+  trends in a global context.
+\newblock \emph{International Journal of Climatology}, 34\penalty0
+  (13):\penalty0 3604--3615, 2014.
+
+\bibitem[Singh and Bhaskaran(2017)]{singh2017impact}
+KS~Singh and Prasad~K Bhaskaran.
+\newblock Impact of pbl and convection parameterization schemes for prediction
+  of severe land-falling bay of bengal cyclones using wrf-arw model.
+\newblock \emph{Journal of Atmospheric and Solar-Terrestrial Physics},
+  165:\penalty0 10--24, 2017.
+
+\bibitem[cis()]{cisl_rda_ds094.0}
+
+
+\bibitem[MétéoFrance(2019)]{meteofr2019data}
+MétéoFrance.
+\newblock Data.
+\newblock
+  \url{http://www.meteo.fr/temps/domtom/La_Reunion/webcmrs9.0/francais/activiteope/data/20182019/2018RE14.html},
+  2019.
+
+\bibitem[Mohanty et~al.(2010)Mohanty, Osuri, Routray, Mohapatra, and
+  Pattanayak]{mohanty2010simulation}
+UC~Mohanty, Krishna~K Osuri, A~Routray, M~Mohapatra, and Sujata Pattanayak.
+\newblock Simulation of bay of bengal tropical cyclones with wrf model: Impact
+  of initial and boundary conditions.
+\newblock \emph{Marine Geodesy}, 33\penalty0 (4):\penalty0 294--314, 2010.
+
+\end{thebibliography}

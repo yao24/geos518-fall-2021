@@ -1,0 +1,60 @@
+This is BibTeX, Version 0.99d (TeX Live 2020)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: GEOS518.aux
+The style file: unsrtnat.bst
+Database file #1: references.bib
+Warning--string name "april" is undefined
+--line 361 of file references.bib
+You're missing a field name---line 376 of file references.bib
+ : 
+ : % author = {World Vision},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 570 of file references.bib
+ :  
+ :  author = "Suranjana {Saha} and Shrinivas {Moorthi} and Xingren {Wu} and Jiande {Wang} and Sudhir {Nadiga} and Patrick {Tripp} and David {Behringer} and Yu-Tai {Hou} and Hui-ya {Chuang} and Mark {Iredell} and Michael {Ek} and Jesse {Meng} and Rongqian {Yang} and Malaquias Pena {Mendez} and Huug {van den Dool} and Qin {Zhang} and Wanqiu {Wang} and Mingyue {Chen} and Emily {Becker}",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--empty year in cisl_rda_ds094.0
+You've used 6 entries,
+            2481 wiz_defined-function locations,
+            586 strings with 5571 characters,
+and the built_in function-call counts, 2019 in all, are:
+= -- 169
+> -- 85
+< -- 4
++ -- 36
+- -- 24
+* -- 142
+:= -- 308
+add.period$ -- 16
+call.type$ -- 6
+change.case$ -- 11
+chr.to.int$ -- 6
+cite$ -- 8
+duplicate$ -- 103
+empty$ -- 204
+format.name$ -- 35
+if$ -- 428
+int.to.chr$ -- 1
+int.to.str$ -- 7
+missing$ -- 4
+newline$ -- 36
+num.names$ -- 15
+pop$ -- 55
+preamble$ -- 1
+purify$ -- 6
+quote$ -- 0
+skip$ -- 74
+stack$ -- 0
+substring$ -- 88
+swap$ -- 12
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 42
+warning$ -- 1
+while$ -- 16
+width$ -- 0
+write$ -- 76
+(There were 2 error messages)
